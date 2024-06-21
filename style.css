@@ -1,0 +1,53 @@
+.titulo{
+  width: 100%;
+  height: 80px;
+}
+.titulo h1{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color:tomato ;
+}
+.content{
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+   
+}
+ 
+.post{
+  width: 280px;
+  height: 460px;
+  background-color: #f6f6f6;
+  display: inline-block;
+  padding: 2px 2px;
+  margin: 30px 30px;
+   
+}
+.post a{
+   text-align: center;
+   margin: 0px 0px 10px;
+   text-align: center;
+   display: block;
+   font-weight: bolder;
+   font-size: 18px;
+   letter-spacing: 1px;
+   color: green;
+}
+.post p{
+  margin: 0px 0px 10px;
+  text-align: center;
+  padding: 8px 8px;
+  text-rendering: optimizeLegibility;
+  display: block;
+  font-size:18px;
+  letter-spacing: 1px;
+}
+
+.post img{
+  width: 280px;
+  height: 200px;
+  text-align: center;
+}
+ 
