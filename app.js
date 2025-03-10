@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
-  document.getElementById('titulo').style.color = 'green';
-  
+   
+  document.querySelector('.fecha').textContent = new Date().getFullYear();
 
 });

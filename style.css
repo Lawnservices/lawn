@@ -9,7 +9,9 @@
   color:tomato ;
 }
 .content{
-  width: 70%;
+  margin-top: 20px;
+  background-color: #f6f6f6;
+  width: 80%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
@@ -37,12 +39,12 @@
 }
 .post p{
   margin: 0px 0px 10px;
-  text-align: center;
-  padding: 8px 8px;
+  padding:6px;
   text-rendering: optimizeLegibility;
   display: block;
   font-size:18px;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
+  text-align: justify;
 }
 
 .post img{
@@ -50,4 +52,5 @@
   height: 200px;
   text-align: center;
 }
+ 
  

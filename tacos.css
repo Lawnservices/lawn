@@ -17,18 +17,15 @@
   padding: 16px 16px;
   font-size: 20px;
 }
-figure{
-  width: 800px;
+.foto{
+  width: 80%;
   height: auto;
-  margin: auto;
-  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  } 
+  img{
+  width:100%;
+  height:auto;
+  
 }
-figure img{
-  width: 660px;
-  height: 420px;
-  margin: auto;
-  margin-left: 66px;
-}
-figure iframe{
-  margin-left: 66px;
-}
+ 
